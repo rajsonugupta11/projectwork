@@ -19,7 +19,7 @@ p, li {
 
 .services {
   padding: 50px 30px;
-  background: #fff;
+  
 }
 
 .services ul {
@@ -32,7 +32,7 @@ p, li {
 .services li {
   margin: 15px 0;
   font-size: 18px;
-  background: #e0f7fa;
+ 
   padding: 10px 20px;
   border-radius: 8px;
   transition: transform 0.3s ease;
@@ -44,7 +44,7 @@ p, li {
 
 .gallery {
   padding: 60px 30px;
-  background: #eef7ff;
+  
 }
 
 .image-grid {
@@ -121,5 +121,6 @@ reset: true
 
 // After (better performance)
 reset: false
+
 
 
